@@ -1,3 +1,36 @@
+<h3 align="center">
+Hi there, I'm <a href="https://www.lichy.in/anilkody" target="_blank" rel="noreferrer">Anil Kody</a> 👋
+</h3>
+
+<h2 align="center">
+  Aspiring MERN Stack Developer | Freelance Web Designer | Tech Enthusiast
+
+</h2> 
+
+I can't get enough of how cool websites can be, and now I'm turning my ideas into digital masterpieces. 🌐✨
+
+### 🤝 Connect with me:
+
+<a href="https://in.linkedin.com/in/anilkody" style="padding:2px;"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anilkody| LinkedIn" width="21px"/> &nbsp;LinkedIN</a>
+
+<a href="https://instagram.com/anilnation"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Anil Kody | Instagram" width="21px"/> &nbsp;Instagram</a>
+
+<a href="https://lichy.in/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Anilkody | Medium" width="21px"/> &nbsp; My Blog</a>
+</br>
+- 💬 If you have any questions/feedback, please do not hesitate to contact me!
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Instagram Hashtag Recommendations (React)
+- My CSS skill
+
+## 🌱 I'm currently learning
+
+- MERN Stack
+- AWS cloud computing
+- JAVA
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anilkody) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilkody) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anilkody) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/anilkody) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anilkody) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anilkody) 
